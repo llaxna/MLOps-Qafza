@@ -5,9 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "joblib>=1.6.0",
     "kagglehub>=1.0.2",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
     "pandas>=3.0.5",
+    "path>=17.1.1",
+    "pathlib>=1.0.1",
     "psycopg2-binary>=2.9.12",
     "pyarrow>=25.0.1",
+    "scikit-learn>=1.9.0",
     "sqlalchemy>=2.0.52",
 ]
