@@ -1,6 +1,49 @@
+# Virtual environments
 .venv/
-artifacts/
+venv/
+env/
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Environment / secrets
 .env
+.env.*
+!.env.example
+
+# macOS
 .DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Test / coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+.coverage.*
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Local MLflow
+mlruns/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS/editor files
+*.swp
+*.swo
