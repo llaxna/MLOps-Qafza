@@ -1,0 +1,13 @@
+paths:
+  test_data: artifacts/test.parquet
+  preprocessor: artifacts/features/preprocessor.joblib
+  model: artifacts/models/final_model.joblib
+  feature_list: artifacts/features/feature_list.csv
+
+model:
+  name: delivery_late_prediction
+  version: "1"
+
+prediction:
+  positive_class: Late
+  negative_class: On Time

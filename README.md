@@ -2,22 +2,11 @@
 
 ## About the Course
 
-This repository contains my work and practical projects for the **Qafza MLOps Course**, a 12-week learning journey focused on taking machine learning models from development to production.
+This repository contains my practical work and projects from the **Qafza MLOps Course**, a 12-week learning journey focused on taking machine learning models from development to production.
 
-The course covers the complete MLOps lifecycle, starting with building reliable machine learning pipelines and progressing toward APIs, containers, data pipelines, versioning, experiment tracking, distributed training, feature stores, monitoring, automated retraining, and infrastructure as code.
+The course covers the MLOps lifecycle, progressing from reliable machine learning pipelines to APIs, containerization, data pipelines, versioning, experiment tracking, distributed training, feature stores, monitoring, automated retraining, and infrastructure as code.
 
-The final goal is to combine the knowledge from all phases into an **end-to-end production-ready ML system**.
-
----
-# MLOps Qafza — Machine Learning Operations Journey
-
-## About the Course
-
-This repository contains my practical work and projects for the **Qafza MLOps Course**, a 12-week learning journey focused on taking machine learning models from development to production.
-
-The course covers the complete MLOps lifecycle, progressing from reliable machine learning pipelines to APIs, containerization, data pipelines, versioning, experiment tracking, distributed training, feature stores, monitoring, automated retraining, and infrastructure as code.
-
-The final goal is to combine these concepts into an **end-to-end production-ready ML system**.
+The goal is to bring these concepts together into an **end-to-end ML system** while building practical experience across the machine learning operations lifecycle.
 
 ---
 
