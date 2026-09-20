@@ -39,6 +39,8 @@ dist/
 
 # Local MLflow
 mlruns/
+mlflow.db
+mlflow.db-journal
 
 # Temporary files
 *.tmp

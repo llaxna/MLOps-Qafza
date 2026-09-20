@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "great-expectations>=1.23.1",
     "joblib>=1.6.0",
     "kagglehub>=1.0.2",
     "matplotlib>=3.11.1",
+    "mlflow>=3.16.1",
     "numpy>=2.5.2",
     "pandas>=3.0.5",
     "path>=17.1.1",
@@ -16,4 +18,11 @@ dependencies = [
     "pyarrow>=25.0.1",
     "scikit-learn>=1.9.0",
     "sqlalchemy>=2.0.52",
+]
+
+[dependency-groups]
+dev = [
+    "dvc>=3.67.1",
+    "httpx2>=2.13.0",
+    "pytest>=8.3.4",
 ]
